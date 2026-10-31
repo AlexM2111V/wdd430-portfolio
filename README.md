@@ -2,7 +2,7 @@
 
 ## Live Site
 
-**Vercel deployment:** [https://YOUR-PROJECT-NAME.vercel.app](https://YOUR-PROJECT-NAME.vercel.app) <!-- TODO: replace with the real Vercel URL after deploying -->
+**Vercel deployment:** https://wdd430-portfolio-beige-three.vercel.app/
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
